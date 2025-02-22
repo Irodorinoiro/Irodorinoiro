@@ -1,4 +1,4 @@
-## 寝るうさぎ![Uploading ThankYouGIF.gif…]()
+## 寝るうさぎ
 
 
 -  I'm a second-year student in college.
