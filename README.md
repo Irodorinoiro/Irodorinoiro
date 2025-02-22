@@ -1,4 +1,4 @@
-## a sleeping rabit
+## 寝るうさぎちゃん
 
 -  I'm a second-year student in college.
 
