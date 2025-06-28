@@ -4,9 +4,9 @@
 
 ## Languages
 
-|C|C++|JavaScript|Python|MySQL|
-|:--:|:--:|:--:|:--:|:--:|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">|<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="55">|
+|C|C++|JavaScript|Python|MySQL|Ruby|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">|<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="55">|
 
 ## Libraries or modules
 |DXライブラリ|matplotlib|Numpy|pandas|
