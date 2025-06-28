@@ -4,14 +4,14 @@
 
 ## Languages
 
-|C|C++|JavaScript|Python|MySQL|Ruby|
+|Python|C|C++|JavaScript|Ruby|MySQL|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">|<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="55">|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="55">|<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="55">|
 
-## Libraries or modules
-|DXライブラリ|matplotlib|Numpy|pandas|
-|:--:|:--:|:--:|:--:|
-|<img src="https://dxlib.xsrv.jp/Image/DxLogo.jpg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="55">|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg" width="55">||
+## Libraries or frameworks
+|DXライブラリ|matplotlib|Numpy|pandas|Ruby on Rails|
+|:--:|:--:|:--:|:--:|:--:|
+|<img src="https://dxlib.xsrv.jp/Image/DxLogo.jpg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="55">|
 
 ## Markup languages
 |CSS|HTML|Markdown|LaTeX|
