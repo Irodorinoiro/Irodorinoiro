@@ -1,9 +1,8 @@
 <img src = "https://64.media.tumblr.com/d7d6aac38aa038e413bc71649cbdb71c/2b2e33b7f57aa1cb-e6/s540x810/c08154f13a879fa45e7de54b2005e03741ea7765.gifv" width="300">
 
-# meru-usagi-chan
+# Neru-usagi-chan
 
 ## Languages
-
 |Python|C|C++|JavaScript|Ruby|MySQL|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="55">|<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="55">|
