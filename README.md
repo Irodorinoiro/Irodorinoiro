@@ -1,10 +1,6 @@
-## Hi there😺
+<img src = "https://64.media.tumblr.com/d7d6aac38aa038e413bc71649cbdb71c/2b2e33b7f57aa1cb-e6/s540x810/c08154f13a879fa45e7de54b2005e03741ea7765.gifv" width="300">
 
-
--  I'm a third-year student in college.
-
-**ArtWorks**
--  I drew a picture of TOKYO BIG6 BASEBALL LEAGUE in 2024.
+# meru-usagi-chan
 
 ## Languages
 
