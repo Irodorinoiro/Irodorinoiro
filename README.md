@@ -3,9 +3,9 @@
 # Neru-usagi-chan
 
 ## Languages
-|Python|C|C++|JavaScript|Ruby|MySQL|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="55">|<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="55">|
+|Python|C|C++|JavaScript|Ruby|MySQL|Java|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="55">|<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width="55">|
 
 ## Libraries or frameworks
 |DXライブラリ|matplotlib|Numpy|pandas|Ruby on Rails|
@@ -38,3 +38,12 @@
 |:--:|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="55">|
 
+# Activity
+<p align="center">
+<img src="https://wakatime.com/share/@a806c973-dc72-4907-8826-1711a7782fb0/aa20e82e-da18-4b6d-885c-981ea21c080a.svg" width="700">
+</p>
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irodorinoiro&exclude_repo=github-readme-stats,Irodorinoiro.github.io&theme=radical&langs_count=10&bg_color=00000000&text_color=fffffff">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irodorinoiro&layout=donut-vertical&theme=radical&langs_count=10&bg_color=00000000&text_color=fffffff">
+</p>
