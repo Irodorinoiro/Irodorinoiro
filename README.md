@@ -31,14 +31,19 @@
 |<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="55">|<img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" width="55">|
 
 ## Editors
-|VScode|
-|:--:|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="55">|
+|VScode|IntelliJ|
+|:--:|:--:|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="55">|<img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" width="55">|
 
 ## IDEs
 |Visual Studio|
 |:--:|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="55">|
+
+## API platform
+|Postman|
+|:--:|
+|<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="55">|
 
 # Activity
 <p align="center">
